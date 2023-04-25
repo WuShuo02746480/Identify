@@ -11,8 +11,9 @@
 # 載入資料   
 •https://drive.google.com/file/d/1nqIZ4BOmHhnKAJhAaI3G6cuXzW12kKf8/view?usp=sharing  
 # 偵測人類  
-![image](1.PNG)
+![image](1.PNG)  
 # 偵測狗  
+![image](1.PNG)  
 # 建立 CNN 以對狗進行分類  
 # 建立 CNN 以對人進行分類  
 # 開始進行分析  
