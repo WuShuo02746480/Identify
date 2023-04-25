@@ -3,11 +3,12 @@
 # 目錄
 •載入資料   
 •訓練模型 
-
 •開始分析  
 •參考資料 
 # 載入資料   
-•https://drive.google.com/file/d/1nqIZ4BOmHhnKAJhAaI3G6cuXzW12kKf8/view?usp=sharing  
+•請準備一個可以使用google colab 的帳號  
+•請下載我們提供的辨識狗的品種和人.ipynb
+•請下載我們提供的AI
 # 訓練模型
 # 開始分析
 # 參考資料  
