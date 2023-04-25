@@ -9,6 +9,7 @@
 •開始進行分析  
 •參考資料
 # 載入資料   
+•https://drive.google.com/file/d/1nqIZ4BOmHhnKAJhAaI3G6cuXzW12kKf8/view?usp=sharing  
 # 偵測人類  
 # 偵測狗  
 # 建立 CNN 以對狗進行分類  
